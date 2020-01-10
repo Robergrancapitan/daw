@@ -1,5 +1,5 @@
 Este es mi primer repositorio de git
 
-** Rafael Romero **
+***Rafael Romero***
 
-** Version 0.1 **
+**Version 0.1**
